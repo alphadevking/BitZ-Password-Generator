@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BitZ Password Generator (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BitZ Password Generator (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
